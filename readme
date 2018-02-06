@@ -1,3 +1,8 @@
 hello world!
 learning git!
+<<<<<<< HEAD
 aaaaa
+=======
+i am learning!
+
+>>>>>>> 0884e7f825bdf62831b508c0601652ca4ee3f723
