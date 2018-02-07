@@ -1,4 +1,9 @@
 hello world!
 hao 520 xupaopao
+<<<<<<< HEAD
 yes 
 you
+=======
+yes
+me
+>>>>>>> test/master
